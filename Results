@@ -1,0 +1,222 @@
+EXP 1
+
+Image Set: Churchi
+Toal size of image set: 18
+Time taken to classify: 22:11:46 - 22:16:06
+No. of Selfies reported: 11
+No. of Non-Selfies reported: 7
+No. of actual Selfies: 12
+No. of actual Non-Selfies: 6
+Classifier: lbpcascade_frontalface_improved.xml
+
+EXP 2
+
+Image Set: Churchi
+Toal size of image set: 18
+Time taken to classify: 22:28:49 - 22:33:22
+No. of Selfies reported: 16
+No. of Non-Selfies reported: 2
+No. of actual Selfies: 12
+No. of actual Non-Selfies: 6
+Classifier: lbpcascade_frontalface.xml
+
+///////////////////////////////////////////////
+
+EXP 1
+
+Image Set: Personne01 (http://www-prima.inrialpes.fr/Pointing04/data-face.html)
+Total size of image set: 92
+Time taken to classify: 23:49:27 - 23:51:03
+No. of Selfies reported: 22
+No. of Non-Selfies reported: 70
+Classifier: lbpcascade_frontalface.xml
+
+Selfies
+ 
+key=21-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01120_30+0.jpg
+key=22-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01121_30+15.jpg
+key=23-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01122_30+30.jpg
+
+key=34-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01133_15+0.jpg
+key=35-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01134_15+15.jpg
+key=36-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01135_15+30.jpg
+key=37-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01136_15+45.jpg
+
+key=46-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01145+0_15.jpg
+key=47-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01146+0+0.jpg
+key=48-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01147+0+15.jpg
+key=49-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01148+0+30.jpg
+key=50-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01149+0+45.jpg
+key=51-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01150+0+60.jpg
+
+key=59-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01158+15_15.jpg
+key=60-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01159+15+0.jpg
+key=61-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01160+15+15.jpg
+key=62-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01161+15+30.jpg
+
+key=72-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01171+30_15.jpg
+key=73-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01172+30+0.jpg
+key=74-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01173+30+15.jpg
+key=75-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01174+30+30.jpg
+
+EXP 2
+
+Image Set: Personne01 (http://www-prima.inrialpes.fr/Pointing04/data-face.html)
+Total size of image set: 92
+Time taken to classify: 00:03:01 - 00:04:36
+No. of Selfies reported: 30
+No. of Non-Selfies reported: 62
+Classifier: lbpcascade_frontalface_improved.xml
+
+Selfies
+
+key=21-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01120_30+0.jpg
+key=22-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01121_30+15.jpg
+key=23-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01122_30+30.jpg
+key=24-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01123_30+45.jpg
+
+key=34-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01133_15+0.jpg
+key=35-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01134_15+15.jpg
+key=36-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01135_15+30.jpg
+key=37-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01136_15+45.jpg
+key=38-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01137_15+60.jpg
+key=39-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01138_15+75.jpg
+
+key=46-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01145+0_15.jpg
+key=47-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01146+0+0.jpg
+key=48-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01147+0+15.jpg
+key=49-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01148+0+30.jpg
+key=50-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01149+0+45.jpg
+key=51-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01150+0+60.jpg
+key=52-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01151+0+75.jpg
+
+key=59-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01158+15_15.jpg
+key=60-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01159+15+0.jpg
+key=61-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01160+15+15.jpg
+key=62-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01161+15+30.jpg
+key=63-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01162+15+45.jpg
+
+key=71-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01170+30_30.jpg
+key=72-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01171+30_15.jpg
+key=73-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01172+30+0.jpg
+key=74-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01173+30+15.jpg
+key=75-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01174+30+30.jpg
+key=76-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01175+30+45.jpg
+key=77-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01176+30+60.jpg
+
+key=87-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01186+60+15.jpg
+
+EXP 3
+
+Image Set: Personne01 (http://www-prima.inrialpes.fr/Pointing04/data-face.html)
+Total size of image set: 92
+Time taken to classify: 00:11:45 - 00:13:27
+No. of Selfies reported:0 
+No. of Non-Selfies reported: 92
+Classifier: lbpcascade_frontalcatface.xml
+
+Selfies
+NULL
+
+EXP 4
+
+Image Set: Personne01 (http://www-prima.inrialpes.fr/Pointing04/data-face.html)
+Total size of image set: 92
+Time taken to classify:  00:15:53 - 00:17:28 
+No. of Selfies reported: 15
+No. of Non-Selfies reported: 77
+Classifier: lbpcascade_profileface.xml
+
+Selfies
+
+key=25-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01124_30+60.jpg
+key=26-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01125_30+75.jpg
+key=27-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01126_30+90.jpg
+
+key=35-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01134_15+15.jpg
+key=37-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01136_15+45.jpg
+key=39-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01138_15+75.jpg
+key=40-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01139_15+90.jpg
+
+key=50-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01149+0+45.jpg
+key=51-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01150+0+60.jpg
+key=52-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01151+0+75.jpg
+key=53-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01152+0+90.jpg
+
+key=62-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01161+15+30.jpg
+
+key=66-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01165+15+90.jpg
+
+key=78-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01177+30+75.jpg
+key=79-time=630982-X=0.00-Y=0.00-Z=5.00-filename=personne01178+30+90.jpg
+
+EXP 5
+
+Image Set: Personne01 (http://www-prima.inrialpes.fr/Pointing04/data-face.html)
+Total size of image set: 92
+Time taken to classify:  00:21:41 - 00:23:15
+No. of Selfies reported: 0
+No. of Non-Selfies reported: 92
+Classifier: lbpcascade_silverware.xml
+
+Selfies
+NULL
+
+***********************************************************************
+
+EXP 1
+
+Image Set: http://crcv.ucf.edu/data/Selfie/
+Total size of image set: 100
+Time taken to classify: 01:24:46 - 01:26:40 = 114 seconds
+No. of Selfies reported: 61
+No. of Non-Selfies reported: 39
+
+Classifier: haarcascade_frontalface_default.xml
+
+EXP 2
+
+Image Set: http://crcv.ucf.edu/data/Selfie/
+Total size of image set: 100
+Time taken to classify: 01:32:01 - 01:33:59 = 118 seconds
+No. of Selfies reported: 50
+No. of Non-Selfies reported: 50
+Classifier: haarcascade_frontalface_alt.xml
+
+EXP 3
+
+Image Set: http://crcv.ucf.edu/data/Selfie/
+Total size of image set: 100
+Time taken to classify: 01:38:35 - 01:40:29 = 114 seconds
+No. of Selfies reported: 58
+No. of Non-Selfies reported: 42
+Classifier: haarcascade_frontalface_alt2.xml
+
+EXP 4 (SKIP)
+
+Image Set: http://crcv.ucf.edu/data/Selfie/
+Total size of image set: 100
+Time taken to classify: 01:43:10 - 01:45:10 = 120 seconds
+No. of Selfies reported: 8
+No. of Non-Selfies reported: 92
+Classifier: haarcascade_frontalface_alt_tree.xml
+
+EXP 5
+
+Image Set: http://crcv.ucf.edu/data/Selfie/
+Total size of image set: 100
+Time taken to classify: 01:48:10 - 01:49:53 = 103 seconds
+No. of Selfies reported:  52
+No. of Non-Selfies reported: 48
+
+Classifier: lbpcascade_frontalface.xml
+
+EXP 6
+
+Image Set: http://crcv.ucf.edu/data/Selfie/
+Total size of image set: 100
+Time taken to classify: 01:52:55 - 01:54:36 = 101 seconds
+No. of Selfies reported:  49
+No. of Non-Selfies reported: 51
+Classifier: lbpcascade_frontalface_improved.xml
+
